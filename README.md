@@ -8,18 +8,18 @@ A collection of awesome libraries, frameworks, tools, resources and other beasts
 ## Front-end Development
 
 - JavaScript
-  - [React](https://facebook.github.io/react/) - Don't you know what is React? Really?
-  - [Redux](http://redux.js.org/) - Our favourite implementation of a Flux approach.
+  - [React](https://facebook.github.io/react/) - Don't you know what React is? Really?
+  - [Redux](http://redux.js.org/) - Our favourite implementation of the Flux design pattern.
   - [npm](https://www.npmjs.com/) - Because we need a package manager for JavaScript modules.
     - [npm docs](https://docs.npmjs.com/) - Direct link to npm documentation.
 - CSS
-  - [BEM](https://en.bem.info/) - Block-Element-Modifier convention. Helps with CSS. A lot.
+  - [BEM](https://en.bem.info/) - Block-Element-Modifier convention, It helps with CSS, A lot.
   - [SASS](http://sass-lang.com/) - If you are not using SASS to write your CSS rules, you are wasting time.
 - Building tools
-  - [Babel](https://babeljs.io/) - Tired of waiting for browsers to implement the newest and awesome ES6 features? Wait no more. Start using Babel and write the JavaScript (or EcmaScript) code of tomorrow, today ;)
-  - [Webpack](https://webpack.github.io/) - A module bundler that helps saving a lot of time. Deserves its own category.
-    - [Webpack and React](http://survivejs.com/webpack_react/introduction/) - A free book to make Webpack accept React as a good friend.
-  - [PostCSS](http://postcss.org/) - This one is really awesome. It allows you to use a huge number of plugins on your CSS to make your life easier.
-    - [Autoprefixer](https://github.com/postcss/autoprefixer) - Our favourite PostCSS plugin. You write standard CSS and it will add the vendor prefixes (`-moz, -webkit, -msie, ...`) needed according to you configuration.
+  - [Babel](https://babeljs.io/) - Tired of waiting for browsers to implement the latest and greatest ES6 features? Wait no more. Start using Babel and write the JavaScript (or EcmaScript) code of tomorrow, today ;)
+  - [Webpack](https://webpack.github.io/) - A module bundler that helps by saving a lot of time. Webpack deserves its own category.
+    - [Webpack and React](http://survivejs.com/webpack_react/introduction/) - This free book will show you how to make Webpack accept React as a good friend.
+  - [PostCSS](http://postcss.org/) - This is a really awesome tool. It allows you to process your CSS with a huge number of plugins. This will make your life easier!
+    - [Autoprefixer](https://github.com/postcss/autoprefixer) - Our favourite PostCSS plugin. You write standard CSS and it will add the vendor prefixes (`-moz, -webkit, -msie, ...`) you want, according to your configuration.
 
 This list is inspired by the [awesome list of awesome lists](https://github.com/sindresorhus/awesome).
