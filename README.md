@@ -1,5 +1,5 @@
 # Awesome Reevoo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A collection of awesome libraries, frameworks, tools, resources and other beasts used in [Reevoo](http://reevoo.github.io/).
+A collection of the awesome libraries, frameworks, tools, resources and other beasts we use at [Reevoo](http://reevoo.github.io/).
 
 ## Table of contents
 
