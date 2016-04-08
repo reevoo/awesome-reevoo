@@ -4,6 +4,7 @@ A collection of the awesome libraries, frameworks, tools, resources and other be
 ## Table of contents
 
 - [Front-end Development](#front-end-development)
+- [Infrastructure](#infrastructure)
 
 ## Front-end Development
 
@@ -21,5 +22,16 @@ A collection of the awesome libraries, frameworks, tools, resources and other be
     - [Webpack and React](http://survivejs.com/webpack_react/introduction/) - This free book will show you how to make Webpack accept React as a good friend.
   - [PostCSS](http://postcss.org/) - This is a really awesome tool. It allows you to process your CSS with a huge number of plugins. This will make your life easier!
     - [Autoprefixer](https://github.com/postcss/autoprefixer) - Our favourite PostCSS plugin. You write standard CSS and it will add the vendor prefixes (`-moz, -webkit, -msie, ...`) you want, according to your configuration.
+
+## Infrastructure
+
+- Containers
+  - [Docker](https://www.docker.com/) - Don't you know what Docker is? Really?
+  - [Kubernetes](https://kubernetes.io/) - Kubernetes is an open-source system for automating deployment, operations, and scaling of containerized applications, oh and it's awesome.
+    - [KubeCon EU 2016 - Videos](https://www.youtube.com/playlist?list=PLosInM-8doqcBy3BirmLM4S_pmox6qTw3) - All the presentations from KubeCon EU 2016 that took place in London, watch out for the awesome keynote from the awesome [Kelsey Hightower](https://twitter.com/kelseyhightower).
+  - [CoreOS](https://coreos.com/) - CoreOS is designed for security, consistency, and reliability. CoreOS is lightweight and runs on almost any platform. Instead of installing software packages with a package manager like apt or yum everything is installed as a container.
+- [Chef](https://www.chef.io/chef/) - Configuration management with the power of Ruby. At Reevoo we manage over 100 servers using chef.
+
+___
 
 This list is inspired by the [awesome list of awesome lists](https://github.com/sindresorhus/awesome).
