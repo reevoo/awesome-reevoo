@@ -9,7 +9,7 @@ A collection of the awesome libraries, frameworks, tools, resources and other be
 ## Front-end Development
 
 - JavaScript
-  - [React](https://facebook.github.io/react/) - Don't you know what React is? Really?
+  - [React](https://facebook.github.io/react/) - React was born to make front-end development cool again by using components. Do you like Lego and programming? You are going to love React.
   - [Redux](http://redux.js.org/) - Our favourite implementation of the Flux design pattern.
   - [npm](https://www.npmjs.com/) - Because we need a package manager for JavaScript modules.
     - [npm docs](https://docs.npmjs.com/) - Direct link to npm documentation.
@@ -26,7 +26,7 @@ A collection of the awesome libraries, frameworks, tools, resources and other be
 ## Infrastructure
 
 - Containers
-  - [Docker](https://www.docker.com/) - Don't you know what Docker is? Really?
+  - [Docker](https://www.docker.com/) - With Docker you can create a container with all the configuration and tools that you need and deploy your app to your staging or production environments. You don't need to worry never again about inconsistent versions in your different environments. Isn't that cool?
   - [Kubernetes](https://kubernetes.io/) - Kubernetes is an open-source system for automating deployment, operations, and scaling of containerized applications, oh and it's awesome.
     - [KubeCon EU 2016 - Videos](https://www.youtube.com/playlist?list=PLosInM-8doqcBy3BirmLM4S_pmox6qTw3) - All the presentations from KubeCon EU 2016 that took place in London, watch out for the awesome keynote from the awesome [Kelsey Hightower](https://twitter.com/kelseyhightower).
   - [CoreOS](https://coreos.com/) - CoreOS is designed for security, consistency, and reliability. CoreOS is lightweight and runs on almost any platform. Instead of installing software packages with a package manager like apt or yum everything is installed as a container.
