@@ -32,6 +32,14 @@ A collection of the awesome libraries, frameworks, tools, resources and other be
   - [CoreOS](https://coreos.com/) - CoreOS is designed for security, consistency, and reliability. CoreOS is lightweight and runs on almost any platform. Instead of installing software packages with a package manager like apt or yum everything is installed as a container.
 - [Chef](https://www.chef.io/chef/) - Configuration management with the power of Ruby. At Reevoo we manage over 100 servers using chef.
 
+## Awesome Talks
+
+* [Go Ahead, Make a Mess](https://www.youtube.com/watch?v=xi3DClfGuqQ) by **Sandi Metz** [43:27]
+* [Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** [26:04]
+* [Turning the database inside out with Apache Samza](http://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/) by **Martin Kleppmann** [47:42]
+* [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** [1:01:00]
+* [Træfɪk - Load Balancing microservices](https://www.youtube.com/watch?v=aFtpIShV60I) by **Ed Robinson** [24:38]
+
 ___
 
 This list is inspired by the [awesome list of awesome lists](https://github.com/sindresorhus/awesome).
