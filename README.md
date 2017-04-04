@@ -32,6 +32,10 @@ A collection of the awesome libraries, frameworks, tools, resources and other be
   - [CoreOS](https://coreos.com/) - CoreOS is designed for security, consistency, and reliability. CoreOS is lightweight and runs on almost any platform. Instead of installing software packages with a package manager like apt or yum everything is installed as a container.
 - [Chef](https://www.chef.io/chef/) - Configuration management with the power of Ruby. At Reevoo we manage over 100 servers using chef.
 
+### Resources
+
+- [ship it](http://shipit.works/) - Weekly newletter of articles about shipping software
+
 ## Awesome Talks
 
 * [Go Ahead, Make a Mess](https://www.youtube.com/watch?v=xi3DClfGuqQ) by **Sandi Metz** [43:27]
